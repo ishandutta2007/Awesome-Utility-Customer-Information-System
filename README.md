@@ -20,44 +20,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Oracle Utilities Customer Care & Billing (CC&B) / Customer Cloud Service](https://www.oracle.com/utilities/)**  
-  Enterprise-grade CIS and meter-to-cash platform used by large investor-owned utilities, supporting complex rates, multi-commodity billing, and high transaction volumes.
 
-- **[Hansen CIS](https://www.hansencx.com/)**  
-  Modern SaaS customer information system focused on digital customer experience, AI-enabled service, and cloud delivery for water, electric, and multi-utility providers.
-
-- **[Cayenta (Harris)](https://www.harriscomputer.com/)**  
-  Integrated CIS and utility suite from Harris Computer, popular with municipal and mid-market utilities for billing, customer care, and field operations.
-
-- **[Harris CIS / Customer Solutions](https://www.harriscomputer.com/)**  
-  Suite of customer information and billing solutions serving municipal, cooperative, and mid-to-large utilities.
-
-- **[Milsoft CIS](https://www.milsoft.com/)**  
-  Utility software including customer information and related operational systems, often used by electric cooperatives and municipal utilities.
-
-- **[Gentrack](https://www.gentrack.com/)**  
-  Customer and billing platforms for utilities and energy retailers, with strong capabilities in complex market and retail environments.
-
-- **[Advanced Utility Systems](https://www.advancedutility.com/)**  
-  CIS and utility management solutions focused on billing, customer service, and operational efficiency.
-
-- **[NorthStar Utilities](https://www.northstarutilities.com/)**  
-  Customer information and billing systems tailored for utilities seeking integrated meter-to-cash functionality.
-
-- **[VertexOne](https://www.vertexone.com/)**  
-  Cloud-oriented CIS and utility customer platform serving mid-to-large utilities with billing and engagement capabilities.
-
-- **[Fluentgrid](https://www.fluentgrid.com/)**  
-  Utility software including CIS, billing, and smart-grid related customer systems.
-
-- **[Kraken Technologies](https://kraken.tech/)**  
-  Modern energy and utility customer platform known for flexible billing, real-time data, and digital-first customer experiences (widely used by energy retailers).
-
-- **[SilverBlaze](https://www.silverblaze.com/)**  
-  Customer engagement and CIS-related solutions for utilities focused on digital channels and self-service.
-
-- **[Utilismart](https://www.utilismart.com/)**  
-  Utility customer and billing software supporting account management and related services.
+| Platform / Product | Description & Target Utility | Specific Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Oracle Utilities CC&B / Customer Cloud Service](https://www.oracle.com/utilities/)** | Enterprise CIS and meter-to-cash platform supporting complex multi-commodity rates, billing, and high transaction volumes for large IOU and municipal utilities. | Starting at **$15,000/month** ($180,000/year base SaaS tier for mid-sized utilities, or ~$1.50–$3.50 per active meter/year) + cloud infrastructure fees | No permanent free tier; **30-day free trial** via Oracle Cloud Infrastructure ($300 cloud credits, up to 8 OCPUs and 5 TB storage for testing architecture) |
+| **[Hansen CIS](https://www.hansencx.com/)** | Cloud-native SaaS CIS focusing on digital customer experience, automated service workflows, and AI-enabled meter-to-cash for electric, water, and gas providers. | Starting at **$10,000/month** ($120,000/year base SaaS subscription for small-to-mid utilities up to 10,000 active service accounts) | No permanent free tier; **30-day guided POC trial** upon vendor onboarding (restricted to 500 test accounts and 3 admin users) |
+| **[Cayenta (Harris)](https://www.harriscomputer.com/)** | Integrated CIS and utility ERP suite popular with municipal and mid-market utilities for complex billing, customer service, and field work orders. | Starting at **$7,500/month** ($90,000/year base SaaS/maintenance tier for small municipal utilities under 5,000 connections; core modules start ~$50,000) | No permanent free tier; **14-day guided proof-of-concept (POC) sandbox** with preconfigured rate models (limited to 5 test users) |
+| **[Harris CIS / Customer Solutions](https://www.harriscomputer.com/)** | Suite of customer information, billing, and meter management solutions serving municipal, cooperative, and mid-to-large multi-service utilities. | Starting at **$5,000/month** ($60,000/year base subscription tier for municipal utilities managing up to 5,000 customer meters) | No permanent free tier; **14-day vendor-assisted interactive demo sandbox** (limited to preloaded municipal tariff templates) |
+| **[Milsoft CIS](https://www.milsoft.com/)** | Comprehensive utility CIS, outage management (OMS), and financial software tailored for electric distribution cooperatives and municipal utilities. | Starting at **$3,500/month** ($42,000/year base SaaS subscription for small electric co-ops under 3,000 meters; perpetual licenses from $25,000) | No permanent free tier; **30-day interactive pilot sandbox** for qualified electric cooperatives (limited to 1,000 dummy accounts) |
+| **[Gentrack](https://www.gentrack.com/)** | High-velocity customer management and billing engine for competitive energy retailers, water providers, and deregulated energy markets. | Starting at **$12,500/month** ($150,000/year base tier for competitive energy & water retailers with up to 15,000 meter endpoints) | No permanent free tier; **30-day structured proof-of-concept (POC)** sandbox for certified utility retailers (up to 1,000 simulated accounts) |
+| **[Advanced Utility Systems (CIS Infinity)](https://www.advancedutility.com/)** | Modular CIS Infinity platform covering meter-to-cash, rate modeling, service orders, and customer engagement for local government and public utilities. | Starting at **$4,200/month** ($50,400/year base tier for 1–10 concurrent users; individual seats priced at ~$3,500/concurrent user one-time + annual hosting) | No permanent free tier; **14-day guided staging trial environment** for municipal billing teams (up to 250 simulated meter endpoints) |
+| **[NorthStar Utilities](https://www.northstarutilities.com/)** | Configurable CIS and billing platform designed for small-to-medium municipal utilities seeking turnkey meter-to-cash and self-service portals. | Starting at **$4,000/month** ($48,000/year base SaaS tier for utilities managing 3,000–10,000 meter connections) | No permanent free tier; **14-day guided POC environment** with sample rate schedules (limited to 3 administrator test seats) |
+| **[VertexOne](https://www.vertexone.com/)** | SaaS customer experience and CIS platform providing cloud billing, customer engagement, mobile workforce, and meter data integration for mid-to-large utilities. | Starting at **$8,000/month** ($96,000/year base SaaS tier for mid-size utilities with up to 10,000 active customer accounts) | No permanent free tier; **30-day guided interactive trial sandbox** on AWS/Azure for qualified utilities (up to 250 test customer records) |
+| **[Fluentgrid](https://www.fluentgrid.com/)** | Smart utility software suite integrating CIS, AMI smart metering, CRM, and revenue protection for electric, water, and gas distribution utilities. | Starting at **$6,000/month** ($72,000/year base subscription tier for distribution utilities and smart grid rollouts) | No permanent free tier; **30-day trial sandbox** for smart meter billing validation (limited to 500 simulated AMI meters) |
+| **[Kraken Technologies](https://kraken.tech/)** | Modern AI-driven utility operating system powering end-to-end billing, dynamic tariffs, and grid flexibility for high-growth energy suppliers. | Starting at **$1.20–$1.80 per customer account/month** (minimum platform commitment starting at **$20,000/month**) | No permanent free tier; **30-day enterprise proof-of-concept / API sandbox** for energy retailers (up to 1,000 simulated smart meters) |
+| **[SilverBlaze](https://www.silverblaze.com/)** | Customer self-service portal, smart forms, and billing engagement layer that integrates into core CIS and AMI data systems. | Starting at **$2,500/month** ($30,000/year base subscription tier for utility customer portals managing up to 5,000 active users) | No permanent free tier; **14-day interactive portal trial & live demo** with simulated customer login credentials and sample utility e-bills |
+| **[Utilismart](https://www.utilismart.com/)** | Cloud-based meter data management (MDM) and billing settlement software for municipal utilities, submeterers, and industrial power providers. | Starting at **$3,000/month** ($36,000/year base SaaS tier for interval meter data management and settlement for up to 5,000 meters) | No permanent free tier; **30-day pilot trial** with sample interval meter data ingestion (limited to 100 test meters) |
 
 ## Open-Source GitHub Projects
 - **[BillRun](https://github.com/BillRun/system)**  
