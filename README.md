@@ -1,6 +1,6 @@
 # Awesome-Utility-Customer-Information-System
 
-# Top Utility Customer Information System (CIS) Platforms Ecosystem
+## Top Utility Customer Information System (CIS) Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Utility Billing, Customer Care, Meter-to-Cash, Rate Management, Account Management & Regulatory Compliance for Electric, Water & Gas Utilities*
 **Last updated: August 2026**
